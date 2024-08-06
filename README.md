@@ -11,5 +11,5 @@ Step 1:
 Step 2:
 Write the logic to get computer choice
    1. create a funtion named getcomputerchoice
-   2. Write a funtion so that getcomputerchoice will randomly return one of the following "Rock","Paper" or "Scissors".
+   2. Write a function so that getcomputerchoice will randomly return one of the following "Rock","Paper" or "Scissors".
    3.Test That the function works
