@@ -8,8 +8,19 @@ Step 1:
   test if js link working correctly 
    console.log("Hello, World!) 
 
-Step 2:
-Write the logic to get computer choice
+
+***Write the logic to get computer choice***
    1. create a funtion named getcomputerchoice
    2. Write a function so that getcomputerchoice will randomly return one of the following "Rock","Paper" or "Scissors".
-   3.Test That the function works
+            create a function named getcomputerchoice
+            retun values selected randomly
+            call the getcoputerchoice funtion 
+            print the random value returned 
+   
+
+
+*** Write the logic for human choice ***
+   create a funtion named getHumanChoice
+   return the Human choice seleted 
+   call and save the human choice in a variable
+   print human human choice inputed 
