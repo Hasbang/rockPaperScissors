@@ -6,7 +6,7 @@ Step 1:
   create blank html document with script tags
   create js link 
   test if js link working correctly 
-   console.log("Hello, World!) 
+   
 
 
 ***Write the logic to get computer choice***
